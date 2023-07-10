@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository by using the command line :
 
-- `git clone `
+- `git clone https://github.com/mbdesigns1989/Hello_Rails_React`
 
 ### Install
 
