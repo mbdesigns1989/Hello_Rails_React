@@ -98,4 +98,4 @@ If you like this project by staring it.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]
+This project is [<a href="https://github.com/mbdesigns1989/Hello_Rails_React/blob/featuers-branch/LICENSE">MIT</a>]
